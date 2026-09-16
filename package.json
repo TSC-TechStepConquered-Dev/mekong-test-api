@@ -1,0 +1,12 @@
+{
+  "name": "comnetmekong-news-blog",
+  "version": "1.0.0",
+  "description": "Mekong News Blog & API Testing Portal for comnetmekong.org",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mekong", "blog", "api-tester"],
+  "author": "",
+  "license": "ISC"
+}
